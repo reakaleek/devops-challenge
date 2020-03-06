@@ -43,7 +43,7 @@ Therefore, the number of persons in the test would no longer match.
 ## Goal
 
 Provide a way to run this test successfully several times in a row. Also,
-keep in mind that this test will run on our CI Server,
+keep in mind that this test will run locally and on our CI Server (So also keep multiple environments in mind),
 and that this test is potentially executed in parallel by different builds.
 
 ## Constraints
